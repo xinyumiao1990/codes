@@ -1,0 +1,34 @@
+
+
+17/01
+Data Structures and Algorithms- Linked List, Matrix manipulation, dynamic programming, etc. 
+
+
+16/10
+Given an array of integers find three numbers whose sum equals zero. 
+
+16/03
+Round 1 : Phone 1 hr - Implement super priority queue . <Given 3 priority queues , make a super queue to peek and poll the element from the 3 queues>
+Round 2 : Phone 1 hr - 1) Deep copy linkedlist with next and random pointer 2) Merge Intervals if there is overlap  
+
+
+15/08
+You are given two strings A and B. Length of string A does not exceed the length of string B. Figure out if string A is present in B as a subsequence.  
+
+
+
+15/08
+Phone Interview:
+1. Given a linkedList having next and an arbitrary pointer do a deep copy of this linkedList.
+On Site Interview:
+1. Given a square matrix print the elements in a diagonal manner. E.g.
+4 5 8
+2 4 9
+1 2 6
+O/P:
+4
+2 5
+1 4 8
+2 9
+6
+2. Some SQL related queries. Implement Multiple Reader and Single Writer Problem.  
